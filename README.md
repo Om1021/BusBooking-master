@@ -1,2 +1,6 @@
-# BusBooking-master
-So, I created an Bus Ticket Booking system using SQL, AWS, etc. 
+# BusBooking
+Online Bus ticketing system
+
+![Homepage](screenshots/homepage.png?raw=true "Homepage")
+![Bus Seat booking](screenshots/reg-form.png?raw=true "Book Seats")
+![Register Users](screenshots/reg-form1.png?raw=true "Rigister Users/Owners")
